@@ -4,8 +4,8 @@ A smart elevator access control system that combines RFID authentication with Io
 
 ## Project Gallery
 
-> Add project photos here.
-> 
+![](images/AccessControll.jpeg)
+![](images/ButtonServo.jpeg)
 
 ## Read More
 
