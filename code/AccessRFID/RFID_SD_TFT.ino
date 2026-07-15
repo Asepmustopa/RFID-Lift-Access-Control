@@ -14,7 +14,7 @@
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 const unsigned char myBitmap [] PROGMEM = {
-  // 'logo VE tok  33, 63x33px
+  // your company logo  33, 63x33px
 
 };
 #define SD_PIN D8
@@ -29,7 +29,7 @@ bool errorRFID, getData, Data;
 bool updateData = true;
 bool rfid = false;
 String UID;
-String judul = "LIFT M.B.";
+String judul = "your lift name";
 unsigned long PrevRFID, prevRead;
 
 //======================
